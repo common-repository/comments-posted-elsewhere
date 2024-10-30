@@ -1,0 +1,1 @@
+=== Comments Posted Elsewhere ===Contributors: nickmomrikTags: commentsStable tag: trunkRetrieves a list of comments posted on other sites (with the help of a hidden post and trackbacks).== Installation ==1. Visit http://www.neiluchitel.com/index.php?p=179 for a tutorial on setting this up.
